@@ -1,0 +1,67 @@
+lead_id,date,channel,device,company_size,sector,region,status
+1013,2025-10-02,LinkedIn Ads,Mobile,1-10,HealthTech,Nouvelle-Aquitaine,SQL
+1015,2025-10-08,Google Ads,Tablet,500+,Finance,Centre-Val de Loire,MQL
+1027,2025-10-27,Emailing,Tablet,100-500,Industry,,SQL
+1056,2025-10-26,Emailing,Tablet,50-100,SaaS,Pays de la Loire,MQL
+1061,2025-10-26,Emailing,Desktop,10-50,Finance,Ile-de-France,MQL
+1062,2025-10-31,Google Ads,Desktop,50-100,Industry,Occitanie,SQL
+1067,2025-10-18,CRM,Desktop,500+,Consulting,Pays de la Loire,Lost
+1071,2025-10-20,LinkedIn Ads,Tablet,500+,HealthTech,Bretagne,SQL
+1078,2025-10-26,LinkedIn Ads,Desktop,10-50,Retail,Hauts-de-France,MQL
+1081,2025-10-28,LinkedIn Ads,Desktop,1-10,SaaS,Hauts-de-France,MQL
+1090,2025-10-22,Google Ads,Mobile,1-10,Education,Occitanie,SQL
+1094,2025-10-30,LinkedIn Ads,Tablet,1-10,Retail,Centre-Val de Loire,MQL
+1124,2025-10-22,Emailing,Mobile,50-100,Education,Ile-de-France,MQL
+1188,2025-10-23,Emailing,Mobile,1-10,Finance,Nouvelle-Aquitaine,Lost
+1220,2025-10-06,Google Ads,Desktop,,,Grand Est,SQL
+1229,2025-10-31,CRM,Desktop,500+,Education,Auvergne-Rhone-Alpes,Lost
+1237,2025-10-01,LinkedIn Ads,Tablet,100-500,Industry,Ile-de-France,Client
+1246,2025-10-11,CRM,Mobile,500+,Finance,Auvergne-Rhone-Alpes,SQL
+1247,2025-10-25,Emailing,Desktop,50-100,Retail,PACA,MQL
+1250,2025-10-14,Emailing,Mobile,10-50,Retail,,SQL
+1271,2025-10-01,Google Ads,Mobile,500+,Retail,Occitanie,MQL
+1273,2025-10-07,LinkedIn Ads,Mobile,100-500,Finance,Auvergne-Rhone-Alpes,SQL
+1303,2025-10-13,LinkedIn Ads,Mobile,500+,HealthTech,Occitanie,MQL
+1319,2025-10-30,Emailing,Mobile,50-100,Industry,PACA,Lost
+1324,2025-10-20,CRM,Mobile,1-10,HealthTech,Occitanie,Client
+1358,2025-10-20,Emailing,Tablet,1-10,SaaS,Ile-de-France,SQL
+1362,2025-10-30,CRM,Tablet,100-500,Retail,Auvergne-Rhone-Alpes,MQL
+1363,2025-10-22,LinkedIn Ads,Tablet,1-10,Consulting,Bretagne,SQL
+1382,2025-10-22,Emailing,Tablet,10-50,SaaS,Auvergne-Rhone-Alpes,Client
+1386,2025-10-18,Google Ads,Desktop,500+,Industry,Auvergne-Rhone-Alpes,MQL
+1412,2025-10-23,CRM,Tablet,100-500,Consulting,Auvergne-Rhone-Alpes,Lost
+1478,2025-10-04,LinkedIn Ads,Desktop,500+,Finance,Bretagne,SQL
+1482,2025-10-30,Emailing,Tablet,50-100,HealthTech,Occitanie,Lost
+1492,2025-10-25,CRM,Desktop,500+,Retail,PACA,MQL
+1493,2025-10-03,CRM,Desktop,10-50,Consulting,Centre-Val de Loire,MQL
+1504,2025-10-20,CRM,Desktop,10-50,SaaS,Pays de la Loire,Client
+1533,2025-10-18,LinkedIn Ads,Tablet,10-50,Industry,Auvergne-Rhone-Alpes,SQL
+1535,2025-10-14,Emailing,Tablet,100-500,HealthTech,PACA,SQL
+1540,2025-10-19,LinkedIn Ads,Desktop,10-50,Retail,Occitanie,MQL
+1564,2025-10-11,Google Ads,Desktop,1-10,Consulting,Occitanie,SQL
+1571,2025-10-16,Emailing,Tablet,500+,Consulting,Pays de la Loire,MQL
+1576,2025-10-09,Google Ads,Tablet,10-50,SaaS,Grand Est,Lost
+1628,2025-10-07,LinkedIn Ads,Desktop,10-50,Finance,Bretagne,MQL
+1629,2025-10-02,LinkedIn Ads,Tablet,1-10,Consulting,Occitanie,MQL
+1644,2025-10-02,LinkedIn Ads,Desktop,1-10,,Ile-de-France,Client
+1663,2025-10-28,LinkedIn Ads,Mobile,1-10,Education,Grand Est,MQL
+1668,2025-10-15,Emailing,Tablet,1-10,Education,Ile-de-France,Lost
+1674,2025-10-19,Google Ads,Mobile,10-50,Industry,PACA,SQL
+1679,2025-10-21,LinkedIn Ads,Desktop,50-100,Consulting,Bretagne,Lost
+1686,2025-10-30,Emailing,Tablet,50-100,SaaS,PACA,MQL
+1722,2025-10-06,Emailing,Tablet,,SaaS,Auvergne-Rhone-Alpes,SQL
+1779,2025-10-06,Google Ads,Tablet,10-50,Education,,MQL
+1800,2025-10-31,Google Ads,Desktop,500+,Industry,Bretagne,MQL
+1819,2025-10-28,Google Ads,Mobile,50-100,Industry,Hauts-de-France,MQL
+1824,2025-10-09,Emailing,Tablet,500+,SaaS,Occitanie,MQL
+1833,2025-10-21,Google Ads,Desktop,100-500,SaaS,Ile-de-France,SQL
+1847,2025-10-02,LinkedIn Ads,Mobile,500+,Industry,Occitanie,SQL
+1856,2025-10-26,LinkedIn Ads,Mobile,500+,Consulting,PACA,MQL
+1892,2025-10-21,Emailing,Mobile,100-500,Industry,PACA,SQL
+1922,2025-10-11,LinkedIn Ads,Desktop,1-10,SaaS,Auvergne-Rhone-Alpes,MQL
+1923,2025-10-20,Google Ads,Mobile,1-10,Education,Auvergne-Rhone-Alpes,MQL
+1931,2025-10-25,Google Ads,Mobile,500+,Industry,Auvergne-Rhone-Alpes,MQL
+1954,2025-10-29,Emailing,Desktop,1-10,Industry,Occitanie,MQL
+1956,2025-10-10,Google Ads,Tablet,100-500,HealthTech,Hauts-de-France,MQL
+1960,2025-10-25,Google Ads,Mobile,10-50,Finance,Nouvelle-Aquitaine,Lost
+1984,2025-10-11,Google Ads,Mobile,10-50,Finance,Bretagne,MQL
